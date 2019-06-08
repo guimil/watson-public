@@ -1,0 +1,15 @@
+{
+  "name": "baby",
+  "version": "1.0.0",
+  "description": "baby bb",
+  "main": "watson-API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "milreu",
+  "license": "ISC",
+  "dependencies": {
+    "ibm-watson": "^4.1.3",
+    "prompt-sync": "^4.1.7"
+  }
+}
